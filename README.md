@@ -347,7 +347,7 @@ pip install -r requirements.txt
 
 \### 4. Open the notebook
 
-\Launch Jupyter Notebook and open:
+Launch Jupyter Notebook and open:
 
 ```text
 notebook/student_performance_analysis.ipynb
@@ -355,7 +355,7 @@ notebook/student_performance_analysis.ipynb
 
 \### 5. Run all cells
 
-\Execute all cells in the notebook to reproduce the analysis and visualizations.
+Execute all cells in the notebook to reproduce the analysis and visualizations.
 
 \---
 

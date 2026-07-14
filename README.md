@@ -39,31 +39,31 @@ This project demonstrates the complete data analysis workflow, including:
 
 \## Dataset Preview
 
-\![Dataset Preview](screenshots/dataset_preview.png)
+![Dataset Preview](screenshots/dataset_preview.png)
 
 ---
 
 \## Average Marks Bar Chart
 
-\![Bar Chart](screenshots/bar_chart.png)
+![Bar Chart](screenshots/bar_chart.png)
 
 ---
 
 \## Python Marks Line Chart
 
-\![Line Chart](screenshots/line_chart.png)
+![Line Chart](screenshots/line_chart.png)
 
 ---
 
 \## Grade Distribution
 
-\![Pie Chart](screenshots/pie_chart.png)
+![Pie Chart](screenshots/pie_chart.png)
 
 ---
 
 \## Histogram
 
-\![Histogram](screenshots/histogram.png)
+![Histogram](screenshots/histogram.png)
 
 ---
 

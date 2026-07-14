@@ -35,6 +35,38 @@ This project demonstrates the complete data analysis workflow, including:
 \---
 
 
+\# 📷 Project Preview
+
+\## Dataset Preview
+
+\![Dataset Preview](screenshots/dataset_preview.png)
+
+---
+
+\## Average Marks Bar Chart
+
+\![Bar Chart](screenshots/bar_chart.png)
+
+---
+
+\## Python Marks Line Chart
+
+\![Line Chart](screenshots/line_chart.png)
+
+---
+
+\## Grade Distribution
+
+\![Pie Chart](screenshots/pie_chart.png)
+
+---
+
+\## Histogram
+
+\![Histogram](screenshots/histogram.png)
+
+---
+
 
 \# 🎯 Objectives
 

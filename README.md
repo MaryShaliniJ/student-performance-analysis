@@ -323,6 +323,42 @@ The project generates:
 \---
 
 
+\---
+
+\# ▶️ How to Run
+
+\### 1. Clone the repository
+
+```bash
+git clone https://github.com/MaryShaliniJ/student-performance-analysis.git
+```
+
+\### 2. Navigate to the project folder
+
+```bash
+cd student-performance-analysis
+```
+
+\### 3. Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+\### 4. Open the notebook
+
+\Launch Jupyter Notebook and open:
+
+```text
+notebook/student_performance_analysis.ipynb
+```
+
+\### 5. Run all cells
+
+\Execute all cells in the notebook to reproduce the analysis and visualizations.
+
+\---
+
 
 \# 🔮 Future Improvements
 
